@@ -1,6 +1,6 @@
 # Student Feedback Management System
 
-A full-stack web application for collecting, managing, and analyzing student feedback efficiently.
+A modern full-stack web application designed to collect, manage, and analyze student feedback efficiently. This project demonstrates frontend-backend integration using React and Java with a structured and scalable approach.
 
 ## 🚀 Tech Stack
 
